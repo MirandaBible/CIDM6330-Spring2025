@@ -1,0 +1,15 @@
+2. Follow requirements spec model:
+Front matter
+  Front page
+  Introduction
+  Table of contents
+Requirements statements
+  User Stories, Use Cases, Features, Gherkin Validation
+Specifications
+  Concept
+  UX Notes
+  Interfaces (Controls)
+  Behaviors
+    Feature/Package A (appropriate UML diagrams)
+    Feature/Package N (appropriate UML diagrams) …
+
